@@ -5,7 +5,7 @@ from toga.style.pack import COLUMN, CENTER, ROW
 background_color = "#F5F0FF"
 main_button_color = "#E0B6FF"
 register_button_color = "#F5E642"
-alert_button_color = "#FFB6C1"
+alert_button_color = "#C6B6FF"
  
 usuarios = {
     "admin": {"password": "1234", "email": "admin@furrylove.com"}
