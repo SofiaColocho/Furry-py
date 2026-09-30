@@ -239,6 +239,20 @@ productos = [
         "descripcion": "Alimento premium para gatos adultos. Bolsa de 1kg con taurina y omega 3.",
         "disponible": True
     },
+    {
+        "nombre": "Comida para gato",
+        "precio": "$8.00",
+        "categoria": "Alimentación",
+        "descripcion": "Alimento premium para gatos adultos. Bolsa de 1kg con taurina y omega 3.",
+        "disponible": True
+    },
+    {
+        "nombre": "Comida para gato",
+        "precio": "$8.00",
+        "categoria": "Alimentación",
+        "descripcion": "Alimento premium para gatos adultos. Bolsa de 1kg con taurina y omega 3.",
+        "disponible": True
+    },
 ]
  
  
