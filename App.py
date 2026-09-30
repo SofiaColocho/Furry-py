@@ -2,7 +2,7 @@ import toga
 from toga.style import Pack
 from toga.style.pack import COLUMN, CENTER, ROW
  
-background_color = "#F5F0FF"
+background_color = "#F2FFF0"
 main_button_color = "#E0B6FF"
 register_button_color = "#F5E642"
 alert_button_color = "#C6B6FF"
