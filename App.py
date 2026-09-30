@@ -157,21 +157,21 @@ refugios = [
 productos = [
     {
         "nombre": "Cama para gato",
-        "precio": "$10.00",
+        "precio": "30",
         "categoria": "Descanso",
         "descripcion": "Cama suave y acogedora ideal para gatos. Tamaño mediano, fácil de lavar.",
         "disponible": True
     },
     {
         "nombre": "Pelotas para perro",
-        "precio": "$5.00",
+        "precio": "$2",
         "categoria": "Juguetes",
         "descripcion": "Set de 3 pelotas resistentes de goma para perros. Ideales para jugar en exteriores.",
         "disponible": True
     },
     {
         "nombre": "Collar para gato",
-        "precio": "$6.00",
+        "precio": "$5",
         "categoria": "Accesorios",
         "descripcion": "Collar ajustable con cascabel para gatos. Disponible en varios colores.",
         "disponible": True
@@ -185,35 +185,35 @@ productos = [
     },
     {
         "nombre": "Traje de dinosaurio",
-        "precio": "$9.99",
+        "precio": "$15",
         "categoria": "Ropa",
         "descripcion": "Divertido disfraz de dinosaurio para perros pequeños. Perfecto para Halloween.",
         "disponible": True
     },
     {
         "nombre": "Peluches para gato",
-        "precio": "$7.50",
+        "precio": "$7.80",
         "categoria": "Juguetes",
         "descripcion": "Set de peluches con catnip para gatos. Estimula el juego natural del gato.",
         "disponible": True
     },
     {
         "nombre": "Plato para perro",
-        "precio": "$8.99",
+        "precio": "$7.50",
         "categoria": "Alimentación",
         "descripcion": "Plato antideslizante de acero inoxidable para perros. Fácil de limpiar.",
         "disponible": True
     },
     {
         "nombre": "Comida para perro",
-        "precio": "$4.55",
+        "precio": "$4.95",
         "categoria": "Alimentación",
         "descripcion": "Alimento balanceado para perros adultos. Bolsa de 1kg con vitaminas y minerales.",
         "disponible": True
     },
     {
         "nombre": "Traje de banana",
-        "precio": "$6.00",
+        "precio": "$7.00",
         "categoria": "Ropa",
         "descripcion": "Gracioso disfraz de banana para perros pequeños. Muy suave y cómodo.",
         "disponible": True
